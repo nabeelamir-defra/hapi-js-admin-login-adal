@@ -1,0 +1,17 @@
+{
+  "name": "hapi-js-admin-login-adal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-vm-modules server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "adal-node": "^0.2.4",
+    "dotenv": "^16.4.5"
+  }
+}
